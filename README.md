@@ -1,6 +1,6 @@
 # Physics from Video
 
-Code for **Physics from Video: Identifiability of Time-Invariant Second-Order ODEs under Minimal Trajectory Conditions**.
+Code for **[Physics from Video: Identifiability of Time-Invariant Second-Order ODEs under Minimal Trajectory Conditions](https://arxiv.org/abs/2606.00115)** (ICML 2026).
 
 This repository estimates the parameters of a time-invariant second-order ODE directly from video. The main experiments are organized as:
 
@@ -150,6 +150,19 @@ Outputs are written to:
 ```text
 robustness/data_gen/ablation_data/
 robustness/results/
+```
+
+## Citation
+
+If you use this code or build on the experiments, please cite:
+
+```bibtex
+@inproceedings{wang2026physics,
+  title={Physics from Video: Identifiability of Time-Invariant Second-Order ODEs under Minimal Trajectory Conditions},
+  author={Wang, Yuanyuan and Wang, Wenjie and Zhang, Kun and Gong, Mingming},
+  booktitle={International Conference on Machine Learning},
+  year={2026},
+}
 ```
 
 ## Notes
