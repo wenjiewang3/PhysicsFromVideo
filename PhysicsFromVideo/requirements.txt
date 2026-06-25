@@ -1,4 +1,0 @@
-imageio[ffmpeg]>=2.29
-matplotlib>=3.7
-numpy>=1.24
-torch>=2.0
